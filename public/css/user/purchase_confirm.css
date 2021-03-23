@@ -1,0 +1,99 @@
+.vertical-thead th{
+    vertical-align: middle !important;
+}
+input {
+    height: 25px;
+}
+.purchase-confirm-search-direct {
+    border: 2px solid #000;
+}
+.btn-process {    
+    float: right !important;
+    position: relative;
+    top: 6px;
+}
+.process{
+    margin-top: 25px;
+}
+.purchase-confirm-title {
+    padding-top: 7px;
+    padding-left: 5px;
+    border-bottom: 1px solid #000;
+    background: rgb(221, 235, 247);
+}
+.purchase-confirm-form {
+    padding: 10px 45px 5px 45px;
+}
+.btn-search {   
+    padding: 5px 30px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+    border: none;
+}
+.btn-search:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+    cursor: pointer;
+}
+.btn-print {   
+    padding: 10px 30px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-print:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+    cursor: pointer;
+}
+.btn-save {   
+    padding: 10px 30px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-save:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+    cursor: pointer;
+}
+.btn-update {   
+    padding: 10px 30px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-update:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+    cursor: pointer;
+}
+.form-group{
+    margin-bottom: 0;
+}
+.table-result tbody tr td{
+    padding: 3px;
+}
+.input-width {
+    width: 100%;
+}
+.bill-number {
+    width: 100%;
+}
+.no-allowed
+{    
+    background-color: #fff;
+}
+.no-allowed:hover
+{
+    cursor: not-allowed;
+}
+.flag_p_status{
+    position: relative;
+    top: 6px;
+}

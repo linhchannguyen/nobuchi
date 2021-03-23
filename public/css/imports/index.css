@@ -1,0 +1,27 @@
+.card-search
+{
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+.body-card-import
+{
+    /* padding-right: 5px; */
+    padding: 15px;
+    margin-right: 0px;
+    margin: 10px;
+}
+.row-content
+{
+    margin-bottom: 10px;
+}
+.label-import
+{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.title-import-table
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

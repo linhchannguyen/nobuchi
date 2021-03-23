@@ -1,0 +1,50 @@
+.shipment-stage {
+    border: 2px solid #000;
+}
+.shipment-title {
+    padding-top: 7px;
+    padding-left: 5px;
+    border-bottom: 1px solid #000;
+    background: rgb(221, 235, 247);
+}
+.shipment-table {
+    margin-top: 35px;
+}
+.shipment-form {
+    padding: 25px 45px 0 45px;
+}
+.btn-search-payable {
+    padding: 5px 40px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search-payable:hover {
+    text-decoration: none;
+    color: #000;
+}
+/* .table, th, td {
+    border: 1px solid black;
+} */
+.table thead {
+    border: 2px solid black;
+    background: rgb(221, 235, 247);
+}
+.table tbody {
+    border: 2px solid black;
+}
+.table thead th {
+    border-bottom: 2px solid black !important;
+}
+.btn-right {
+    float: right;
+}
+.btn-search-payable:hover {  
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.text-middle {
+    vertical-align: middle;
+}

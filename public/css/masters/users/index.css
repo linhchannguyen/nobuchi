@@ -1,0 +1,45 @@
+.check_flag_user_permission, .check_flag_h_permission:hover{
+    cursor: pointer;
+}
+table>thead>tr
+{
+    height: 40px;
+}
+tbody {
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+.btn-user
+{
+    padding: 10px 60px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+    margin-left: 10px;
+    position: relative;
+    top: -15px;
+}
+.btn-user:hover
+{
+    background-color:rgb(187, 187, 187); 
+}
+.btn-user-process {    
+    padding: 20px 80px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+    border: none;
+    position: relative;
+    top: 8px;
+}
+.btn-user-process:hover
+{
+    background-color:rgb(187, 187, 187);
+    cursor: pointer;
+}
+.dataTables_paginate {
+    display: none;
+}
+#btn_delete_user, #btn_update_user {
+    background: #D9D9D9;
+}

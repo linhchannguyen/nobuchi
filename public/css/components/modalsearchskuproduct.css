@@ -1,0 +1,163 @@
+.card-seard
+{
+    width: 100%;
+    height: auto;
+    border: .125rem solid black;
+}
+.title-card-search
+{
+    padding: .3125rem;
+    border-bottom: .0625rem solid black;
+    background-color:rgb(211, 235, 247);
+}
+.body-card-search
+{
+    padding: .625rem;
+    border-bottom: .125rem solid black;
+}
+textarea:hover, 
+input:hover, 
+textarea:active, 
+input:active, 
+textarea:focus, 
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active
+{
+    outline:0px !important;
+    box-shadow: none !important;
+}
+.label-id
+{
+    text-align: right;
+    padding-top: .1875rem;
+}
+.form-radio-custom
+{
+    padding-left: 1.25rem;
+}
+.btn-search-order
+{
+    float: left;
+    padding: 5px 40px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+    margin-left: .625rem;
+}
+.btn-search
+{
+    float: left;
+}
+.dropdown-extend-search
+{
+    float: right;
+    /* margin-top: 5px; */
+    font-size: 1.25rem;
+    color: #000;
+}
+.dropdown-extend-search:hover{
+color: rgb(58, 52, 52);
+}
+.search-extend
+{
+    display: none;
+    border: none;
+}
+.label-title
+{
+    margin-right: .625rem;
+}
+.card-table
+{
+    width: 100%;
+    margin-top: 1.25rem;
+}
+.table-control td
+{
+    border: 1px solid black !important;
+}
+.title-card-control
+{
+    margin-top: -16px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding: .3125rem;
+    border-bottom: .0625rem solid black;
+    background-color:rgb(211, 235, 247);
+}
+.card-body-control
+{
+    height: auto;
+    border: 2px solid black;
+    border-top: none;
+    padding: 1.25rem;
+    padding-left: 3.125rem;
+}
+.control-select
+{
+    margin-top: 20px;
+}
+.card-table-results
+{
+    margin-top: 1.25rem;
+    width: 100%;
+}
+.download-ex
+{
+    margin-top: 1.25rem;
+    float: right;
+}
+.row-input
+{
+    margin-bottom: .3125rem;
+}
+.row-input input
+{
+    width: 100%;
+}
+.date-search
+{
+    margin-top: .3125rem;
+    width: 100%;
+}
+.row-date
+{
+    margin-top: .625rem;
+}
+.header-modal-custom
+{
+    background-color: #B4C6E7;
+    padding: .4375rem !important;
+}
+.card-search-modal
+{
+    width: 100%;
+    height: auto;
+    border: .125rem solid black;
+}
+.modal-custom
+{
+    width: 100%;
+    padding: 30px !important;
+}
+.modal-content-custom
+{
+    max-width: 1500px;
+}
+@media (min-width: 992px)
+{
+    .modal-lg {
+        max-width: 15000px !important;
+    }
+}
+@media (min-width: 700px)
+{
+    .modal-lg {
+        max-width: 9000px !important;
+    }
+}

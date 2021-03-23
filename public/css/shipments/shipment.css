@@ -1,0 +1,113 @@
+.shipment-search {
+    border: 2px solid #000;
+}
+.shipment-stage {
+    margin-top: 25px;
+    border: 2px solid #000;
+}
+.shipment-table {
+    margin-top: 35px;
+}
+.shipment-table-search {
+    margin-top: 55px;
+}
+.shipment-title {
+    padding-top: 7px;
+    padding-left: 5px;
+    border-bottom: 1px solid #000;
+    background: rgb(221, 235, 247);
+}
+.shipment_form {
+    padding: 15px 45px 0 45px;
+}
+#form_stage {    
+    padding-bottom: 15px;
+}
+.btn-right {
+    float: right;
+}
+.btn-search-today {
+    padding: 5px 40px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search-today:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-search-from-to {
+    padding: 5px 20px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search-from-to:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-send-shipment, .btn-download {
+    padding: 5px 20px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-download:hover {   
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-send-shipment:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-search {
+    padding: 10px 50px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-update {
+    padding: 10px 50px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-update:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+/* .table, th, td {
+    border: 1px solid black;
+} */
+.table thead{
+    border: 2px solid black;
+    background: rgb(221, 235, 247);
+}
+.table tbody{
+    border: 2px solid black;
+}
+.table thead th{
+    border-bottom: 2px solid black !important;
+}
+.btn-search-today, .btn-search-from-to, .btn-send-shipment, .btn-search, .btn-update, .btn-download{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 990px){
+    #form_shipment {
+        padding-bottom: 40px;
+    }
+    .search-center{
+        padding-top: 20px;
+    }
+}

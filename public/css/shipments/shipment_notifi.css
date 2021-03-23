@@ -1,0 +1,138 @@
+.shipment-search {
+    border: 2px solid #000;
+}
+.shipment-stage {
+    margin-top: 25px;
+    border: 2px solid #000;
+    border-bottom: none;
+}
+.shipment-import {
+    border: 2px solid #000;
+}
+.shipment-table {
+    margin-top: 35px;
+}
+.shipment-table-search {
+    margin-top: 55px;
+}
+.shipment-title {
+    padding-top: 7px;
+    padding-left: 5px;
+    border-bottom: 1px solid #000;
+    background: rgb(221, 235, 247);
+}
+.shipment-import-title {
+    padding-top: 7px;
+    padding-left: 5px;
+    border-bottom: 1px solid #000;
+    background: rgb(221, 235, 247);
+}
+.shipment-form {
+    padding: 15px 45px 0 45px;
+}
+.shipment-check {
+    padding: 15px 45px 0 45px;
+}
+.shipment-import-sel {
+    padding: 15px 45px 0 45px;
+}
+.btn-right {
+    float: right;
+}
+#form_stage {    
+    padding-bottom: 15px;
+}
+.btn-search-today {
+    padding: 5px 40px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search-today:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-sel-file {
+    padding: 5px 20px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+    border: none;
+}
+.btn-import {
+    padding: 5px 40px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+    border: none;
+}
+.btn-search-from-to {
+    padding: 5px 20px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search-from-to:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-sel-file:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-import:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-search {
+    padding: 10px 50px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search:hover {
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-send-shipment, .btn-download {
+    padding: 5px 20px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-download:hover {   
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.table thead{
+    border: 2px solid black;
+    background: rgb(221, 235, 247);
+}
+.table tbody{
+    border: 2px solid black;
+}
+.table thead th{
+    border-bottom: 2px solid black !important;
+}
+.btn-search-today, .btn-search-from-to, .btn-search, .btn-download, .btn-sel-file, .btn-import{
+    cursor: pointer;
+}
+
+.btn-search-today, .btn-search-from-to, .btn-search, .btn-download, .btn-sel-file, .btn-import:hover{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 990px){
+    #form_shipment {
+        padding-bottom: 40px;
+    }
+    .search-center{
+        padding-top: 20px;
+    }
+}

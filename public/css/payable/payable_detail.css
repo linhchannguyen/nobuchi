@@ -1,0 +1,108 @@
+input {
+    height: 25px;
+}
+.payable-stage {
+    border: 2px solid #000;
+    border-bottom: none;
+}
+.payable-search-direct {
+    border: 2px solid #000;
+    border-bottom: none;
+}
+.payable-search-mani {    
+    border: 2px solid #000;
+}
+.payable-title {
+    padding-top: 7px;
+    padding-left: 5px;
+    border-bottom: 1px solid #000;
+    background: rgb(221, 235, 247);
+}
+.payable-table {
+    margin-top: 35px;
+}
+.payable-form {
+    padding: 15px 45px 5px 45px;
+}
+.btn-search-payable {
+    padding: 10px 50px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+    border: none;
+}
+.btn-search-payable:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-search-direct {   
+    padding: 5px 30px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search-direct:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-search-download {   
+    padding: 5px 30px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search-download:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-search-save {   
+    padding: 5px 30px;
+    border-radius: 5px;
+    background: #D9D9D9;
+    color: #000;
+}
+.btn-search-save:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+    background: #BBBBBB;
+}
+.btn-right {
+    float: right;
+}
+.form-group{
+    margin-bottom: 0;
+}
+.payable-stage .payable-form .col-md-3 {
+    padding: 15px;
+}
+.table-fee {
+    padding: 25px 0 10px 50px;
+}
+.table-fee-f thead th {
+    border: 2px solid #000;
+}
+.table-fee-f tbody td {
+    border: 2px solid #000;
+}
+.table-fee-l tbody tr td{
+    padding: 3px;
+}
+.table-fee-l thead th{
+    vertical-align: middle;
+    text-align: center;
+}
+.input-width{
+    width: 100px;
+}
+.btn-process {    
+    float: right !important;
+    position: relative;
+    top: -65px;
+}
